@@ -1,17 +1,7 @@
 {
-  "name": "nextjs-toolbox",
+  "name": "pro-gadget",
   "version": "1.0.0",
-  "author": "Netlify Inc",
-  "contributors": [
-    "Tara Manicsic",
-    "Prince Wilson",
-    "Charlie Gerard",
-    "Ben Hong"
-  ],
-  "homepage": "https://github.com/netlify-templates/nextjs-toolbox",
-  "bugs": {
-    "url": "https://github.com/netlify-templates/nextjs-toolbox/issues"
-  },
+  "author": "Naveen",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
